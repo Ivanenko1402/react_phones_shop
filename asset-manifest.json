@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_phones_shop/static/css/main.f0a6f6fc.css",
+    "main.css": "/react_phones_shop/static/css/main.fd75acfe.css",
     "main.js": "/react_phones_shop/static/js/main.d50e32fc.js",
     "static/media/Mont-Regular.otf": "/react_phones_shop/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "/react_phones_shop/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
@@ -17,11 +17,11 @@
     "index.html": "/react_phones_shop/index.html",
     "static/media/menu.svg": "/react_phones_shop/static/media/menu.f1277a825f9dc7d02392.svg",
     "static/media/menu_hover.svg": "/react_phones_shop/static/media/menu_hover.ae094839fae8e672e27a.svg",
-    "main.f0a6f6fc.css.map": "/react_phones_shop/static/css/main.f0a6f6fc.css.map",
+    "main.fd75acfe.css.map": "/react_phones_shop/static/css/main.fd75acfe.css.map",
     "main.d50e32fc.js.map": "/react_phones_shop/static/js/main.d50e32fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0a6f6fc.css",
+    "static/css/main.fd75acfe.css",
     "static/js/main.d50e32fc.js"
   ]
 }
