@@ -1,0 +1,20 @@
+@import "utils";
+@import "fonts";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Mont", sans-serif;
+}
+
+.section {
+  max-width: 1136px;
+
+  @include on760 {
+    margin: 0 auto;
+  }
+}

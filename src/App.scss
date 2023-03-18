@@ -1,0 +1,22 @@
+@import './styles/main.scss';
+
+@import './components/Header/Header.scss';
+@import './components/Footer/Footer.scss';
+@import './components/Buttons/Buttons.scss';
+@import './components/Carousel/Carousel.scss';
+@import './components/Loader/Loader.scss';
+@import './components/Notification/Notification.scss';
+@import './components/Pagination/Pagination.scss';
+@import './components/ProductCard/ProductCard.scss';
+@import './components/ProductsSlider/ProductsSlider.scss';
+@import './components/Selector/Selector.scss';
+
+@import './pages/HomePage/HomePage.scss';
+@import './pages/MobileMenu/MobileMenu.scss';
+@import './pages/Accessories/Accessories.scss';
+@import './pages/Tablets/Tablets.scss';
+@import './pages/BagPage/BagPage.scss';
+@import './pages/DeviceCatalog/DeviceCatalog.scss';
+@import './pages/EmptyPage/EmptyPage.scss';
+@import './pages/FavPage/FavPage.scss';
+@import './pages/TargetPhone/TargetPhone.scss';

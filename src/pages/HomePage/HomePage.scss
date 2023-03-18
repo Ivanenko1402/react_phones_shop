@@ -1,0 +1,82 @@
+.HomePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: calc(100vh - 100px);
+
+  &_conteiner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    &_title {
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 41px;
+      letter-spacing: -0.01em;
+      color: $primary;
+
+      margin-bottom: 24px;
+    }
+
+    &_category {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 16px;
+
+      &_box {
+        transition: all 0.5s;
+
+        &-hover {
+          transform: scale(1.05);
+        }
+
+        &_image {
+          position: relative;
+          width: 368px;
+          height: 368px;
+          overflow: hidden;
+          background-color: $elements;
+
+          margin-bottom: 24px;
+
+          &_img {
+            position: absolute;
+            left: 23px;
+            object-fit: contain;
+          }
+        }
+
+        &_name {
+          display: block;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 26px;
+          color: $primary;
+
+          margin-bottom: 4px;
+        }
+
+        &_count {
+          display: block;
+          font-weight: 500;
+          font-size: 14px;
+          line-height: 21px;
+          color: $secondary;
+        }
+      }
+    }
+  }
+}
+
+.hotPrices {
+  width: 100%;
+  height: 572px;
+  margin-bottom: 80px;
+  display: block;
+}
+
+.link {
+  text-decoration: none;
+}
