@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-// import { useSwipeable } from 'react-swipeable';
 
 import { Phone } from '../../types/Phone';
 import { ProductCard } from '../ProductCard';
@@ -174,7 +173,6 @@ export const ProductsSlider: React.FC<Props> = ({
         </div>
       </div>
       <div
-        // {...swipeHandlers}
         style={{ 'left': `-${position}` }}
         className='productSlider_conteiner_content'
         onTouchMove={(event) => swipe(event)}
