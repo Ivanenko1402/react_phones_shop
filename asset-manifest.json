@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react_phones_shop/static/css/main.f0a6f6fc.css",
+    "main.js": "/react_phones_shop/static/js/main.412af6d6.js",
+    "static/media/Mont-Regular.otf": "/react_phones_shop/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "/react_phones_shop/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "/react_phones_shop/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/404.svg": "/react_phones_shop/static/media/404.e6c9daa4c00afab06459.svg",
+    "static/media/Roboto-Regular-webfont.woff": "/react_phones_shop/static/media/Roboto-Regular-webfont.ccc2dd0b454fbaab2a3c.woff",
+    "static/media/empty_cart.svg": "/react_phones_shop/static/media/empty_cart.85e49fe3d6d9aa2df011.svg",
+    "static/media/add_to.svg": "/react_phones_shop/static/media/add_to.2d438b1f9d5751ab180d.svg",
+    "static/media/Shopping_bag.svg": "/react_phones_shop/static/media/Shopping_bag.f9632dca8fdaed9bb696.svg",
+    "static/media/favorite.svg": "/react_phones_shop/static/media/favorite.87fbe581c0493d3cf3f1.svg",
+    "static/media/home.svg": "/react_phones_shop/static/media/home.d4c29e4f137b3a79235a.svg",
+    "static/media/Search.svg": "/react_phones_shop/static/media/Search.eb670dd9ac01a47e6e00.svg",
+    "static/media/favorite_active.svg": "/react_phones_shop/static/media/favorite_active.d554a185325e4fb06092.svg",
+    "index.html": "/react_phones_shop/index.html",
+    "static/media/menu.svg": "/react_phones_shop/static/media/menu.f1277a825f9dc7d02392.svg",
+    "static/media/menu_hover.svg": "/react_phones_shop/static/media/menu_hover.ae094839fae8e672e27a.svg",
+    "main.f0a6f6fc.css.map": "/react_phones_shop/static/css/main.f0a6f6fc.css.map",
+    "main.412af6d6.js.map": "/react_phones_shop/static/js/main.412af6d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a6f6fc.css",
+    "static/js/main.412af6d6.js"
+  ]
+}
