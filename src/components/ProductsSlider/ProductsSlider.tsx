@@ -139,6 +139,7 @@ export const ProductsSlider: React.FC<Props> = ({
         })
       }
     }
+
     const touchEndHandler = () => {
       document.removeEventListener('touchmove', touchMoveHandler);
       document.removeEventListener('touchend', touchEndHandler);
